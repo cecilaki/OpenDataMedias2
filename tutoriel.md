@@ -3,8 +3,8 @@ layout: default
 title: "Tutoriel : Inscrire son pays dans l'open data index"
 ---
 
+# Tutoriel
  
-
 Tutoriel en anglais : http://global.survey.okfn.org/tutorial/   
 Vidéo / Tutoriel de 6 min sur chaque étape : https://www.youtube.com/embed/w32jJvbewkk 
 
