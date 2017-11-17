@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Tutoriel : Inscrire son pays dans l'open data index"
 ---
 
