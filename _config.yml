@@ -3,7 +3,6 @@ theme: jekyll-theme-cayman
 # Site Settings
 title: "Open Data Medias 2"
 description: "Travail collaboratif de ODM2"
-name: "odm2"
 
 paginate: 10
  
