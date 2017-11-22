@@ -1,0 +1,7 @@
+/***  CSS styles ***/ 
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-image: url("img/open_data_medias_cfijgt2.png");
+}
