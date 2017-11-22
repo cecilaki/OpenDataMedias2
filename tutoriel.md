@@ -1,29 +1,35 @@
 ---
 layout: default
+Title : Tutoriel Global Open Data Index
 ---
 
-# Tutoriel
+# Tutoriel en Français
+
+### Tutoriels existants
  
-Tutoriel en anglais : http://global.survey.okfn.org/tutorial/   
-Vidéo / Tutoriel de 6 min sur chaque étape : https://www.youtube.com/embed/w32jJvbewkk 
+[Tutoriel en anglais](http://global.survey.okfn.org/tutorial/)   
+Vidéo : [Tutoriel de 6 min sur chaque étape](https://www.youtube.com/embed/w32jJvbewkk)    
 
 Remarques sur le tutoriel existant : 
-- **Le message d'encouragement au début** "Do not be afraid to make mistakes; a global community of contributors past and present are here to help you out every step of the way in the Open Data index forum :-)" 
+* **Le message d'encouragement au début** "Do not be afraid to make mistakes; a global community of contributors past and present are here to help you out every step of the way in the Open Data index forum :-)" 
 
-- **Il est expliqué le fonctionnement de l'index en général** ( _How does the Index work_ ? ) 
+* **Il est expliqué le fonctionnement de l'index en général** ( _How does the Index work_ ? ) 
 
+Cet index est bati sur deux éléments. Les lieux qui representent les gouvernementales nationaux ainsi que les juridictions/organismes officiels, et des ensembles de jeux de données. Pour cette année, nous il existe 15 jeux de données répresentant différents aspects de l'information gouvernementale. Chaque jeux de données à une description et une liste de "jeux de données caractéristiques". Les caractéristiques decrivent comment l'information contenu dans un jeu de donnée est évaluée par l'index.      
+
+*Texte original en anglais* : 
 _The index is built on two units — places, that represent national governments or other official jurisdictions, and datasets. In this year’s Index we have 15 datasets representing different aspects of government information. 
 Each dataset has a description and a list of ‘dataset characteristics’. The characteristics describe what information a dataset has to contain to be assessed by the the Index_
 
-_cet index est bati sur deux éléments. Les lieux qui representent les gouvernementales nationaux ainsi que les juridictions/organismes officiels, et des ensembles de jeux de données. Pour cette année, nous il existe 15 jeux de données répresentant différents aspects de l'information gouvernementale. Chaque jeux de données à une description et une liste de "jeux de données caractéristiques". Les caractéristiques decrivent comment l'information contenu dans un jeu de donnée est évaluée par l'index_
+Chacun de ces jeux de données est d'abord évalué par le contributeur (c'est-dire-vous) en répondant à 9 questions en plus de sous-questions. 
+Après ce processus, les données/informations sont envoyées pour une revision/relecture. il existe pour chaque jeux de données, des expert. Ce qui signifie que les evaluateurs (reviewers) vérifieront les informations soumises par le contributeurs pour chaque pays et chaque jeux de données(ex: dépenses du gouvernement, les données des élections, etc.). 
+Après cette étape de verification par les experts, les index sont envoyés aux gouvenements des pays pour commentaires. Cela dans le but de chercher et corriger les erreurs qui auraient pu être commises. La décision finale revient aux relecteur. 
+Après l'ensemble des revisions/relectures, et que les jeux de données sont évalués par le gouvernement du pays concernés, le score final du pays est pourra être publié sur le site web de l'index.
 
+*Texte original en anglais* : 
 _Each of these datasets are first evaluated by the contributor (that is you) answering nine survey questions plus a set of sub-questions. After this process the data is sent for review. We have an expert reviewer for each dataset. This means that reviewers will check the submissions from all countries for a given dataset (e.g. government spending, elections, etc.). After the review stage, we plan to send the Index to governments for commenting. This is done to check for errors that might have come up. The final decision regarding a datasets will be in the reviewer hands. After all of the reviews are completed and the datasets are evaluated by their respective governments, a country’s final score will be shown publicly on the Index website_
 
-_chacun de ces jeux de données est d'abord évalué par le contributeur (c'est-dire-vous) en répondant à 9 questions en plus de sous-questions. Après ce processus, les données/informations sont envoyées pour une revision/relecture. il existe pour chaque jeux de données, des expert. Ce qui signifie que les evaluateurs (reviewers) vérifieront les informations soumises par le contributeurs pour chaque pays et chaque jeux de données(ex: dépenses du gouvernement, les données des élections, etc.). Après cette étape de verification par les experts, les index sont envoyés aux gouvenements des pays pour commentaires. Cela dans le but de chercher et corriger les erreurs qui auraient pu être commises. La décision finale revient aux relecteur. Après l'ensemble des revisions/relectures, et que les jeux de données sont évalués par le gouvernement du pays concernés, le score final du pays est pourra être publié sur le site web de l'index_.
-
-
-
-- **Chaque section de la partie B est détaillée** :
+* **Chaque section de la partie B est détaillée** :
 
 *B1*. _Are the data collected by the government (or an official third party on behalf of the government)? The Index seeks to measure the publication of open government data. It is therefore important to ensure that your submission refers to data that government is responsible of. A submission is only valid if the government is responsible for producing, managing or publishing the submitted dataset. To find evidence, you can look for a disclaimer on a website that data is produced by government, call a government official, or google the government agency that is most likely to hold/collect the data_ 
 
@@ -59,9 +65,7 @@ _Leave comments on the availability of dataset characteristics, and whether only
 
 _If you are unsure whether or not a file type is machine readable or not, mark “No” as an answer and explain your rationale in the comment section. Let us know why you think the data is either made available in a timely manner or not. It is important for us to understand the local context as much as possible. For example, different places have different legislative and governmental spending cycles resulting in differences when spending data counts as up-to-date. Such information is invaluable help for us_.
 
-
-
-# Comment Contribuer ? ( ce qui a été fait pendant la journée de formation GODI ) 
+## Comment Contribuer ? ( ce qui a été fait pendant la journée de formation GODI ) 
 
 Il existe une plateforme accessible et maintenue par l'organisation Open Knowledge International qui recueille l’ensemble des informations qui concernent les indicateurs listés plus haut.
 
